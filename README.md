@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Adam-011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Adam 
+- 👀 I’m interested in a lot
+- 🌱 I’m currently learning German, js and html
+- 💞️ I’m looking to collaborate on anything just hmu
+- 📫 How to reach me  if u know u know 
+
 
 <!---
 Adam-011/Adam-011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
